@@ -10,7 +10,6 @@ A  web-based Bookstore project built using **Spring Boot**, **Java**, and **Boot
 - ➕ Register (Add) new books
 - 👤 User registration and login (optional - if included)
 - 📄 View the list of books added by the user
-- 🧼 Clean and responsive UI using Bootstrap 5
 
 ---
 
