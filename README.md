@@ -18,8 +18,8 @@ A  web-based Bookstore project built using **Spring Boot**, **Java**, and **Boot
 
 - **Backend**: Java, Spring Boot  
 - **Frontend**: HTML, CSS, Bootstrap 5  
-- **Database**: (Specify - e.g., MySQL / H2 / PostgreSQL)  
-- **IDE**: IntelliJ / VS Code / Eclipse
+- **Database**: MySQL 
+- **IDE**: IntelliJ
 
 ---
 
